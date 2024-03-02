@@ -5,7 +5,7 @@ export default function WorkTogether() {
         <div className="flex justify-center  gap-14 pt-48">
             {/* Banner */}
             <section className="w-1/2 flex flex-col justify-center gap-10 ">
-                <h1 className="text-5xl font-bold">
+                <h1 className="text-5xl font-bold text-[#050038]">
                     Work together, <br />
                     wherever you work
                 </h1>

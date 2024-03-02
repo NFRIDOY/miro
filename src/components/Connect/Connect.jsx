@@ -5,7 +5,7 @@ export default function Connect() {
         <div className="flex flex-row-reverse justify-between gap-0 pt-32">
             {/* Banner */}
             <section className="w-1/2 flex flex-col justify-center gap-10 pl-32">
-                <h1 className="text-5xl font-bold">
+                <h1 className="text-5xl font-bold text-[#050038]">
                     Connect <br />
                     your tools, <br />
                     close your tabs

@@ -8,7 +8,7 @@ export default function Collaborate() {
                 <h5 className="uppercase text-[#090909] bg-[#FFD02F] w-fit px-3 py-1 text-sm font-bold rounded-xl rotate-12 absolute right-72 -top-20">
                     your idea starts here
                 </h5>
-                <h1 className="text-5xl font-bold text-center">
+                <h1 className="text-5xl font-bold text-center text-[#050038]">
                     Collaborate without
                     <br />
                     constraints
