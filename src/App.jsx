@@ -1,4 +1,5 @@
 import './App.css'
+import Banner from './components/Banner/Banner'
 import Section from './components/Containers/Section'
 import Navbar from './components/Navbar/Navbar'
 
@@ -8,7 +9,7 @@ function App() {
     <>
       <Navbar />
       <Section>
-        j
+        <Banner />
       </Section>
     </>
   )
