@@ -1,3 +1,4 @@
+import SignupFree from "../Buttons/SignupFree";
 
 
 export default function Navbar() {
@@ -104,7 +105,7 @@ export default function Navbar() {
                         <li><a>Contact Sales</a></li>
                         <li><a>Login</a></li>
                         <li>
-                            <a className="btn bg-[#4262FF] text-white rounded-full hover:bg-[#5869c2]">Sign up free →</a>
+                            <SignupFree />
 
                         </li>
                     </ul>

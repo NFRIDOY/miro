@@ -1,5 +1,6 @@
 import './App.css'
 import Banner from './components/Banner/Banner'
+import Collaborate from './components/Collaborate/Collaborate'
 import Height from './components/Containers/Height'
 import Section from './components/Containers/Section'
 import Navbar from './components/Navbar/Navbar'
@@ -14,9 +15,8 @@ function App() {
         <Height>
           <Banner />
         </Height>
-        <Height>
-          <TrastedUsers />
-        </Height>
+        <TrastedUsers />
+        <Collaborate />
       </Section>
 
     </>

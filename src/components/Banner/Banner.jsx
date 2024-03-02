@@ -5,7 +5,7 @@ export default function Banner() {
         <div className="flex justify-center  gap-14">
             {/* Banner */}
             <section className="w-1/2 flex flex-col justify-between">
-                <h1 className="text-6xl font-bold">
+                <h1 className="text-5xl font-bold">
                     Take ideas from <br />
                     better to best
                 </h1>
