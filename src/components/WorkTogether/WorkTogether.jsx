@@ -2,7 +2,7 @@ import weWork from "../../assets/Images/WeWork03.png"
 
 export default function WorkTogether() {
     return (
-        <div className="flex justify-center  gap-14 py-48">
+        <div className="flex justify-center  gap-14 pt-48">
             {/* Banner */}
             <section className="w-1/2 flex flex-col justify-center gap-10 ">
                 <h1 className="text-5xl font-bold">

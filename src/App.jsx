@@ -1,6 +1,7 @@
 import './App.css'
 import Banner from './components/Banner/Banner'
 import Collaborate from './components/Collaborate/Collaborate'
+import Connect from './components/Connect/Connect'
 import Height from './components/Containers/Height'
 import Section from './components/Containers/Section'
 import Navbar from './components/Navbar/Navbar'
@@ -19,6 +20,7 @@ function App() {
         <TrastedUsers />
         <Collaborate />
         <WorkTogether />
+        <Connect />
       </Section>
 
     </>
