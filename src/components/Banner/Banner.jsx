@@ -23,7 +23,7 @@ export default function Banner() {
                         </div>
                     </form>
                 </div>
-                <div className="flex items-center space-x-8 bg-base-200 px-10 py-4 w-fit h-[80px] rounded-md">
+                <div className="flex items-center space-x-8 bg-base-200 px-10 py-4 w-fit h-[80px] rounded-2xl">
                     <div>
                         <div className="rating rating-sm">
                             <input type="radio" name="rating-8" className="mask mask-star-2 bg-orange-400" />
