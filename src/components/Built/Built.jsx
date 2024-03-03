@@ -1,7 +1,5 @@
 import builtImg from "../../assets/Images/Builtimg.png"
 import "./MyComponent.css"
-import figmaLogo from "../../assets/Logos/figma.png"
-import notionLogo from "../../assets/Logos/notion.png"
 
 export default function Built() {
     return (

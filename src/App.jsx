@@ -9,6 +9,7 @@ import TrastedUsers from './components/TrastedUsers/TrastedUsers'
 import WorkTogether from './components/WorkTogether/WorkTogether'
 import TheWayImg from './assets/Images/TheWayImg.png'
 import Built from './components/Built/Built'
+import CustomerStories from './components/CustomerStories/CustomerStories'
 
 function App() {
 
@@ -27,6 +28,7 @@ function App() {
           <img src={TheWayImg} alt="" />
         </div>
         <Built />
+        <CustomerStories />
       </Section>
 
     </>

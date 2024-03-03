@@ -4,11 +4,23 @@
 @tailwind utilities;
 
 * {
-  font-family: "Inter", sans-serif;
-  /* border: 2px solid black; */
+    font-family: "Inter", sans-serif;
+    /* border: 2px solid black; */
 }
 a {
-  cursor: pointer;
+    cursor: pointer;
+}
+.CustomerStoriesContainer {
+    height: 460px;
+}
+.CustomerStoriesContainer > div {
+    padding: 0px 36px;
+    height: 460px;
+    border: 2px solid black;
+}
+.CustomerStoriesContainer > div > h1 {
+    padding: 30px 0px;
+    /* border: 2px solid black; */
 }
 
 /* :root {
