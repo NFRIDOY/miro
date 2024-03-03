@@ -7,6 +7,8 @@ import Section from './components/Containers/Section'
 import Navbar from './components/Navbar/Navbar'
 import TrastedUsers from './components/TrastedUsers/TrastedUsers'
 import WorkTogether from './components/WorkTogether/WorkTogether'
+import TheWayImg from './assets/Images/TheWayImg.png'
+import Built from './components/Built/Built'
 
 function App() {
 
@@ -21,6 +23,10 @@ function App() {
         <Collaborate />
         <WorkTogether />
         <Connect />
+        <div className='py-16'>
+          <img src={TheWayImg} alt="" />
+        </div>
+        <Built />
       </Section>
 
     </>
