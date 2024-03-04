@@ -2,7 +2,7 @@
 
 export default function Footer() {
     return (
-        <div className="w-screen bg-[#02033B] h-[680px] space-y-20 px-48 py-24">
+        <div className="bg-[#02033B] h-[680px] space-y-20 px-48 py-24">
             <section className="grid grid-cols-3">
                 <div className="text-white">
                     <h1 className="text-2xl font-extrabold">
