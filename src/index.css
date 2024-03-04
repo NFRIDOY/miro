@@ -15,8 +15,8 @@ a {
 }
 .CustomerStoriesContainer > div {
     padding: 0px 36px;
-    height: 460px;
-    border: 2px solid black;
+    height: 360px;
+    /* border: 2px solid black; */
 }
 .CustomerStoriesContainer > div > h1 {
     padding: 30px 0px;
