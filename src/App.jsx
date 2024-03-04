@@ -10,6 +10,7 @@ import WorkTogether from './components/WorkTogether/WorkTogether'
 import TheWayImg from './assets/Images/TheWayImg.png'
 import Built from './components/Built/Built'
 import CustomerStories from './components/CustomerStories/CustomerStories'
+import Footer from './components/Footer/Footer'
 
 function App() {
 
@@ -30,6 +31,7 @@ function App() {
         <Built />
         <CustomerStories />
       </Section>
+      <Footer />
 
     </>
   )
